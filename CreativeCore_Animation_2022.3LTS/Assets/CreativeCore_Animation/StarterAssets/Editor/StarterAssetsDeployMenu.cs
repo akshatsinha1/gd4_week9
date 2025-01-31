@@ -1,9 +1,9 @@
 using System.Linq;
 using UnityEditor;
 using UnityEngine;
-#if STARTER_ASSETS_PACKAGES_CHECKED
-using Cinemachine;
-#endif
+
+using Unity.Cinemachine;
+
 
 namespace StarterAssets
 {
